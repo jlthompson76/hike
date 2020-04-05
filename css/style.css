@@ -104,3 +104,26 @@ a#features:hover, a#features:active {
     display: flex;
     align-items: flex-end;
 }
+/* CSS for members.html page */
+
+.members {
+    background-color: white;
+    text-align: center;
+}
+
+#users-display {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.user {
+    background-color: #dfd7c7;
+    border: 10px solid #dfd7c7;
+    border-radius: 10%;
+    margin: 10px;
+}
+
+.user > img {
+    border-radius: 5%;
+}
