@@ -2,7 +2,7 @@
 
 In this exercise we will create a visual list of users who are active on our Hike website. User names and picture files will be stored in arrays, so later we easily can functionality to add and remove people. Further on in the course, we will store data in a _database_ instead of an array, which can preserve data even if the server fails or gets turned off. You might think of a database as a fancier version of an array or object!
 
-!(./images/users/userList%mockup2.png)
+![Mockup of Users Page](./images/users/userList&#32;mockup2.png)
 
 1. Using your Hike! web page as a model, create a new HTML file that repeats the same navigation bar at the top. To make things easier, put your new file into the same folder where you stored the original Hike web page.
 
